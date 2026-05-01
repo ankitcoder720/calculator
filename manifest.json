@@ -1,0 +1,8 @@
+{
+  "name": "Pro Calculator",
+  "short_name": "Calc",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#00ffe0"
+}
